@@ -120,6 +120,7 @@ var Configuration = map[string]PathConfig{
 	"python3.9": Allowed,
 	"python3.10": Allowed,
 	"resize2fs": Allowed,
+	"fsck.erofs": Allowed,
 
 	"aarch64-linux-android-addr2line":    Allowed,
 	"aarch64-linux-android-ar":           Allowed,
